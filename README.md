@@ -1,9 +1,12 @@
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&random=false&width=435&center=true&lines=Hello%2C++I'm+Alex;Welcome+to+my+World+of+Data)](https://git.io/typing-svg)
-
+  <h1>Hello, I'm Alex.</h1>
+  <h3>Passionate about privacy and security, building secure digital systems.</h3>
 </div>
+
+
+
+
 
 ### &nbsp;Projects:
   
