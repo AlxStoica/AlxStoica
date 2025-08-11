@@ -19,13 +19,10 @@
 
 <br>    
   
-### &nbsp;Achievements Data Analysis Training
- - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6) | [Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) |
+### &nbsp;Training & Certifications
+ - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6) | [Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [The Power of Statistics](https://coursera.org/share/5bc2ea65a0b0887215c4cffe0507673a)
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="center">
 
 <br> 
 
