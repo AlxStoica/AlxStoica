@@ -27,8 +27,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandruds/">
-    <img src="https://img.shields.io/badge/-AlexDStoica%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AlxStoica%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alexandruds@icloud.com">
-    <img src="https://img.shields.io/badge/-AlexDStoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AlxStoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
  </a>
