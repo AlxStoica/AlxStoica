@@ -4,19 +4,20 @@
   <h3>Passionate about privacy and security, building secure digital systems.</h3>
 </div>
 
-
-
+<br>
 
 
 ### &nbsp;Projects:
   
-- [Shift Scheduling (Google Sheets)](https://mavenanalytics.io/project/15843)
-- [Inventory Control System (Google Sheets)](https://mavenanalytics.io/project/17601) 
+- 
+- 
 
+<br>
 
 ### &nbsp;I'm currently learning
  - [Linux]()
-   
+
+<br>    
   
 ### &nbsp;Achievements Data Analysis Training
  - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6) | [Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) |
@@ -25,6 +26,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
+
+<br> 
 
 ### &nbsp;Connect with Me
 
