@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hello, I'm Alex.</h1>
-  <h3>Passionate about privacy and security, Self-Taught Professional.</h3>
+  <h3>Passionate about privacy and security, Self-Taught in Infrastructure & Cybersecurity.</h3>
 </div>
 
 <br>
